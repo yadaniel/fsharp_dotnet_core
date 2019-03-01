@@ -1,0 +1,10 @@
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\bin\Debug\netcoreapp2.1\types.deps.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\bin\Debug\netcoreapp2.1\types.runtimeconfig.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\bin\Debug\netcoreapp2.1\types.runtimeconfig.dev.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\bin\Debug\netcoreapp2.1\types.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\bin\Debug\netcoreapp2.1\types.pdb
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\obj\Debug\netcoreapp2.1\types.fsprojAssemblyReference.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\obj\Debug\netcoreapp2.1\types.AssemblyInfoInputs.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\obj\Debug\netcoreapp2.1\types.AssemblyInfo.fs
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\obj\Debug\netcoreapp2.1\types.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\types\obj\Debug\netcoreapp2.1\types.pdb
