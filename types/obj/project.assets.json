@@ -788,11 +788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet\\types\\types.fsproj",
+      "projectUniqueName": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet_core\\types\\types.fsproj",
       "projectName": "types",
-      "projectPath": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet\\types\\types.fsproj",
+      "projectPath": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet_core\\types\\types.fsproj",
       "packagesPath": "C:\\Users\\daniel.schuele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet\\types\\obj\\",
+      "outputPath": "C:\\Users\\daniel.schuele\\Desktop\\gitRepos\\00_github\\fsharp_dotnet_core\\types\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

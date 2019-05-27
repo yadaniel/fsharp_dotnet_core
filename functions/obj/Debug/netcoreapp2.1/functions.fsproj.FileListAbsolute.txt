@@ -8,3 +8,13 @@ C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\functions\obj\D
 C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\functions\obj\Debug\netcoreapp2.1\functions.AssemblyInfo.fs
 C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\functions\obj\Debug\netcoreapp2.1\functions.dll
 C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet\functions\obj\Debug\netcoreapp2.1\functions.pdb
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\bin\Debug\netcoreapp2.1\functions.deps.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\bin\Debug\netcoreapp2.1\functions.runtimeconfig.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\bin\Debug\netcoreapp2.1\functions.runtimeconfig.dev.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\bin\Debug\netcoreapp2.1\functions.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\bin\Debug\netcoreapp2.1\functions.pdb
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\obj\Debug\netcoreapp2.1\functions.fsprojAssemblyReference.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\obj\Debug\netcoreapp2.1\functions.AssemblyInfoInputs.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\obj\Debug\netcoreapp2.1\functions.AssemblyInfo.fs
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\obj\Debug\netcoreapp2.1\functions.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\functions\obj\Debug\netcoreapp2.1\functions.pdb

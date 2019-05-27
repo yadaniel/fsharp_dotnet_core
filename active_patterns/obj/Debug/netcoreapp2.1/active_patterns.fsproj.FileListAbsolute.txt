@@ -1,0 +1,10 @@
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\obj\Debug\netcoreapp2.1\active_patterns.fsprojAssemblyReference.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\obj\Debug\netcoreapp2.1\active_patterns.AssemblyInfoInputs.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\obj\Debug\netcoreapp2.1\active_patterns.AssemblyInfo.fs
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\bin\Debug\netcoreapp2.1\active_patterns.deps.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\bin\Debug\netcoreapp2.1\active_patterns.runtimeconfig.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\bin\Debug\netcoreapp2.1\active_patterns.runtimeconfig.dev.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\bin\Debug\netcoreapp2.1\active_patterns.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\bin\Debug\netcoreapp2.1\active_patterns.pdb
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\obj\Debug\netcoreapp2.1\active_patterns.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\active_patterns\obj\Debug\netcoreapp2.1\active_patterns.pdb
