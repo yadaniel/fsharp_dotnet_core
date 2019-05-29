@@ -1,0 +1,10 @@
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\bin\Debug\netcoreapp2.1\infix_prefix.deps.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\bin\Debug\netcoreapp2.1\infix_prefix.runtimeconfig.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\bin\Debug\netcoreapp2.1\infix_prefix.runtimeconfig.dev.json
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\bin\Debug\netcoreapp2.1\infix_prefix.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\bin\Debug\netcoreapp2.1\infix_prefix.pdb
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\obj\Debug\netcoreapp2.1\infix_prefix.fsprojAssemblyReference.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\obj\Debug\netcoreapp2.1\infix_prefix.AssemblyInfoInputs.cache
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\obj\Debug\netcoreapp2.1\infix_prefix.AssemblyInfo.fs
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\obj\Debug\netcoreapp2.1\infix_prefix.dll
+C:\Users\daniel.schuele\Desktop\gitRepos\00_github\fsharp_dotnet_core\infix_prefix\obj\Debug\netcoreapp2.1\infix_prefix.pdb
