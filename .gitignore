@@ -2,4 +2,6 @@
 *.exe
 *.pdb
 *.cache
+*/bin
+*/obj
 
